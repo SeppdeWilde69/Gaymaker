@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_stoneblok",
     "eventList": [
-        
+        {
+            "id": "bf3943f6-f169-4dac-bc29-78a5c0cee699",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "595bcdc8-ec6c-4e5a-b82d-330c6d042a7f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
